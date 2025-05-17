@@ -42,9 +42,13 @@ Olá, Tudo Bem? Eu sou o Luis Henrique mas pode me chamar de Ls, Muito Prazer! t
 
 ## Plataformas
 
- <a href="https://developer.mozilla.org/en-US/docs/Web/discord"><img src="https://skillicons.dev/icons?i=discord" alt="discord"></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/discord"><img src="https://skillicons.dev/icons?i=discord" alt="discord"></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/github"><img src="https://skillicons.dev/icons?i=github" alt="github"></a>
 
+
+
+
+   
 ----
 
 <img src="https://skillicons.dev/icons?i=markdown">
