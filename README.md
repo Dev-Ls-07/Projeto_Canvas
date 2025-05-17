@@ -23,10 +23,6 @@
 <img src="https://skillicons.dev/icons?i=markdown">
 <img src="https://skillicons.dev/icons?i=markdown">
 <img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
 
 
 ----
@@ -51,10 +47,6 @@ Olá, Tudo Bem? Eu sou o Luis Henrique mas pode me chamar de Ls, Muito Prazer! t
 
 ----
 
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
 <img src="https://skillicons.dev/icons?i=markdown">
 <img src="https://skillicons.dev/icons?i=markdown">
 <img src="https://skillicons.dev/icons?i=markdown">
