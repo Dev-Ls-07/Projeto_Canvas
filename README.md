@@ -8,21 +8,7 @@
 
 ----
 
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
+
 
 
 ----
@@ -36,7 +22,9 @@ Olá, Tudo Bem? Eu sou o Luis Henrique mas pode me chamar de Ls, Muito Prazer! t
 
 ## Ferramentas
 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/python"><img src="https://skillicons.dev/icons?i=python" alt="python" width="100px"></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/python"><img src="https://skillicons.dev/icons?i=python" alt="python"></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/markdown"><img src="https://skillicons.dev/icons?i=markdown" alt="python"></a>
+
 
 ----
 
@@ -49,25 +37,6 @@ Olá, Tudo Bem? Eu sou o Luis Henrique mas pode me chamar de Ls, Muito Prazer! t
 
 
    
-----
-
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-<img src="https://skillicons.dev/icons?i=markdown">
-
-
 ----
 
 </div>
