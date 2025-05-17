@@ -36,5 +36,7 @@ Olá, Tudo Bem? Eu sou o Luis Henrique mas pode me chamar de Ls, Muito Prazer! t
 
 ----
 
+<img src="https://github.com/user-attachments/assets/280620a9-75dc-4ffc-9712-3f61be13b744" width="120px">
+
 
 </div>
