@@ -2,7 +2,7 @@
  
  # Projeto Canvas 
 
-<img src="https://github.com/user-attachments/assets/afa31142-380d-4d43-95dc-b35defb00d5c" width="60px"/>
+
 
 <p> O Projeto Canvas é um projeto sobre o Modelo de Negócios Canvas feito no Colab (Plataforma do Google) que tem suporte para atualizações recentes da IA ​​Gemini (do Google também), feito durante a 2 temporada da Imersão IA da Alura! </p> 
 
@@ -36,7 +36,10 @@ Olá, Tudo Bem? Eu sou o Luis Henrique mas pode me chamar de Ls, Muito Prazer! t
 
 ----
 
-<img src="https://github.com/user-attachments/assets/280620a9-75dc-4ffc-9712-3f61be13b744" width="120px">
+<img src="https://github.com/user-attachments/assets/280620a9-75dc-4ffc-9712-3f61be13b744" width="100" height="16" alt="Discord">
+<img src="https://github.com/user-attachments/assets/afa31142-380d-4d43-95dc-b35defb00d5c" width="60px"/>
+<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png" width="100" height="40" alt="Google">
 
+ 
 
 </div>
