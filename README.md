@@ -9,20 +9,27 @@
  Olá, Tudo Bem? Eu sou o Luis Henrique mas pode me chamar de Ls, Muito Prazer! tenho 18 anos e estudar programação é o que eu chamo de Hobby! O Projeto Canvas é um projeto sobre o Modelo de Negócios Canvas feito no Colab (Plataforma do Google) que tem suporte para atualizações recentes da IA ​​Gemini (do Google também), feito durante a 2 temporada da Imersão IA da Alura!
 
 ! Este projeto passou por uma série de etapas e processos para que pudese funcionar, eu explicarei usando uma metodologia chamada **Golden Circle**: "Por Quê?", "Como?" e "O Quê?"
+</p> 
 
-- Por Quê?
+
+- **Por Quê?**
+
 
   Este projeto foi feito em prol de ajudar em um problema real. Isso não se relaciona com ganhar dinheiro, mas tem a ver com o propósito.
-
-- Como?
-
-  A criação desse projeto foi feita com base em 4 passos de acordo com a banca avaliadora: **Utilidade, Criatividade, Eficácia e Apresentação**, Eu explicarei sobre mais abaixo.
   
-- O Quê?
+
+
+- **Como?**
+
+
+  A criação desse projeto foi feita com base em 4 passos de acordo com a banca avaliadora:  **Utilidade, Criatividade, Eficácia e Apresentação**
+
+  
+- **O Quê?**
+
 
   É o Modelo de Negócios Canvas Online. "O que faz ele ser util, eficáz e criativo?". O fato dele estar na internet é o que torna ele especial, ele é util pois um modelo de negócios bem estruturado faz uma empresa crescer como nunca. Ele é a criativo pois a criação de um site de modelo de negócios é algo que irá impactar e impulsionar o mercado de trabalho, feito nas mãos certas, sai um trabalho assertivo e conclual. Por fim, ele é eficáz, como eu disse antes, um modelo de negócios nas mãos certas, um simples código assim como um simples pensamento, pode impactar geração com conhecimento, eu tenho como exemplo de tudo isso que eu citei até agora, o grande salto no mundo da tecnologia que os irmãos **Guilherme e Paulo Silveira** deram de passar de uma escola de tecnologia chamada **Caelum** criada em 2005 na capital paulista para pessoas que já sabiam programação para uma **Plataforma Online** chamada **Alura**, criada em 2005 e que atualmente é a **é a maior escola online de tecnologia do Brasil.**
-  
-</p> 
+ 
 
 ----
 
@@ -42,19 +49,40 @@
  
    A eficácia que esse projeto apresenta é maior até do que eu imagino, pois um modelo de negócios bem estruturado pode mudar a vida de milhares de pessoas, faz uma venda de bairro virar uma multi-nacional, algo tão grande que por si só consegue mudar a rota do mundo com inovações como muitas empresas e startups por ai pelo mundo, ressaltando novamente o impacto que vemos hoje a plataforma Alura dos irmãos Silveiras.
    
-----
 
-
-<div align = "center">
- 
 
 ## Linguagens
 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/python"><img src="https://skillicons.dev/icons?i=python" alt="python"></a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/markdown"><img src="https://skillicons.dev/icons?i=markdown" alt="python"></a>
+- ### **Python**
 
+
+<div style="display: flex; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python logo" style="margin-right: 20px;">
+  <span>A linguagem Python foi responsavel por criar todo o código do Projeto Modelo de Negócios Canvas, uma linguagem única com uma diversidade de variantes. Python é uma linguagem de programação de alto nível, interpretada e de fácil leitura, conhecida por sua sintaxe simples e clara. Muito utilizada em áreas como desenvolvimento web, ciência de dados, automação, inteligência artificial e scripts, Python é uma das linguagens mais populares do mundo. Sua vasta comunidade e biblioteca padrão abrangente facilitam o desenvolvimento de projetos de todos os tamanhos, tornando-a uma excelente escolha tanto para iniciantes quanto para profissionais experientes.</span>
+</div>
 
 ----
+
+- ### **Mark-Down**
+
+<div style="display: flex; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=markdown" alt="markdown logo" style="margin-right: 20px;">
+  <span>A linguagem de marcação de texto MarkDown foi utilizada para criar o readme do projeto, vindo contar com alguns comando de outras linguagens como HTML & CSS. Markdown é uma linguagem de marcação simples e fácil de usar, criada para formatar textos de forma rápida e legível. Com ela, é possível adicionar títulos, listas, links, imagens, trechos de código e outros elementos, tornando documentos mais organizados e agradáveis de ler. Markdown é amplamente utilizada em READMEs, blogs, documentações e plataformas como GitHub, por sua praticidade e compatibilidade.</span>
+</div>
+
+----
+
+- ### **CSS & HTML**
+
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 logo" width="48" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 logo" width="48" style="margin-right: 20px;">
+  <span>A Linguagem de texto HTML5 e a Linguagem de estilização CSS3 foram responsáveis por auxiliar na arquitetura do arquivo readme do projeto, tendo em vista que podemos utilizar de alguns recursos dessas linguagens dentro do readme. HTML estrutura o conteúdo das páginas web, enquanto CSS define o visual e o layout. Juntas, são essenciais para criar sites bonitos e organizados.</span>
+</div>
+
+----
+
+<div align = "center">
 
 ## Ferramentas & Plataformas
 
