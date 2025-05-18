@@ -82,15 +82,28 @@
 
 ----
 
-<div align = "center">
-
 ## Ferramentas & Plataformas
 
-   <img src="https://github.com/user-attachments/assets/f214d759-a4ca-48f9-8c0e-ad88eaa6bc29" width="140" alt="Gemini">
-   <img src="https://img.icons8.com/color/256/google-colab.png" width="82" alt="Google Colab icon">
+- ### **Gemini**
+
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/f214d759-a4ca-48f9-8c0e-ad88eaa6bc29" alt="Gemini" width="100" style="margin-right: 20px;">
+  <span>Gemini é uma família de modelos de inteligência artificial desenvolvida pelo Google DeepMind. Lançada a partir de 2023, a Gemini foi projetada para ser multimodal, ou seja, capaz de compreender e gerar conteúdo em diferentes formatos, como texto, imagens, áudio e vídeo.
+O modelo se destaca por seu desempenho avançado em tarefas complexas de linguagem natural, raciocínio lógico e integração de múltiplos tipos de dados, sendo uma das principais apostas do Google para competir com outros grandes modelos de IA, como o GPT da OpenAI.
+A Gemini é utilizada em diversos produtos do Google, incluindo o Bard (agora chamado Gemini), trazendo melhorias em pesquisa, produtividade e assistência automatizada.</span>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/color/256/google-colab.png" alt="Google colab" width="100" style="margin-right: 20px;">
+  <span>Google Colab (ou Colaboratory) é uma plataforma gratuita do Google que permite programar em Python diretamente no navegador, com foco especial em ciência de dados, aprendizado de máquina e inteligência artificial. Ele oferece notebooks interativos semelhantes ao Jupyter Notebook, onde você pode combinar código, texto (Markdown), visualizações e outros recursos em um mesmo documento.</span>
+</div>
+
+
 
 
 ----
+
+<div align = "center">
 
 <img src="https://github.com/user-attachments/assets/2b1eaca6-e823-429b-8b04-56a10514c374" width="82" alt="Discord">
 <img src="https://github.com/user-attachments/assets/e8f3602f-df79-4098-8b62-7ed9de262149" height="14" alt="+">
