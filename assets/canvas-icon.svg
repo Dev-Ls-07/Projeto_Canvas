@@ -1,13 +1,19 @@
-<svg width="120" height="80" viewBox="0 0 120 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="118" height="78" rx="8" fill="white" stroke="#222" stroke-width="2"/>
-  <!-- Colunas -->
-  <rect x="1" y="1" width="40" height="26" stroke="#3498db" stroke-width="1.5"/>
-  <rect x="41" y="1" width="38" height="26" stroke="#27ae60" stroke-width="1.5"/>
-  <rect x="79" y="1" width="40" height="26" stroke="#e67e22" stroke-width="1.5"/>
-  <rect x="1" y="27" width="40" height="26" stroke="#9b59b6" stroke-width="1.5"/>
-  <rect x="41" y="27" width="38" height="26" stroke="#f1c40f" stroke-width="1.5"/>
-  <rect x="79" y="27" width="40" height="26" stroke="#e74c3c" stroke-width="1.5"/>
-  <rect x="1" y="53" width="38" height="26" stroke="#16a085" stroke-width="1.5"/>
-  <rect x="39" y="53" width="42" height="26" stroke="#34495e" stroke-width="1.5"/>
-  <rect x="81" y="53" width="38" height="26" stroke="#7f8c8d" stroke-width="1.5"/>
+<svg width="600" height="120" viewBox="0 0 600 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0" y1="0" x2="600" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3498db"/>
+      <stop offset="1" stop-color="#27ae60"/>
+    </linearGradient>
+    <filter id="shadow" x="-10" y="0" width="620" height="140" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#222" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+  <rect x="10" y="10" width="580" height="100" rx="28" fill="url(#bg-gradient)" filter="url(#shadow)"/>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+    font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="bold"
+    fill="#fff" letter-spacing="2" stroke="#222" stroke-width="1" paint-order="stroke"
+    >
+    Modelo de Negócios Canvas
+  </text>
+  <rect x="10" y="10" width="580" height="100" rx="28" fill="none" stroke="#ffffff88" stroke-width="2"/>
 </svg>
