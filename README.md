@@ -1,26 +1,51 @@
+ # Projeto Canvas 
+  
+
+
+<p> 
+ Olá, Tudo Bem? Eu sou o Luis Henrique mas pode me chamar de Ls, Muito Prazer! tenho 18 anos e estudar programação é o que eu chamo de Hobby! O Projeto Canvas é um projeto sobre o Modelo de Negócios Canvas feito no Colab (Plataforma do Google) que tem suporte para atualizações recentes da IA ​​Gemini (do Google também), feito durante a 2 temporada da Imersão IA da Alura!
+
+! Este projeto passou por uma série de etapas e processos para que pudese funcionar, eu explicarei usando uma metodologia chamada **Golden Circle**: "Por Quê?", "Como?" e "O Quê?"
+
+- Por Quê?
+
+  Este projeto foi feito em prol de ajudar em um problema real. Isso não se relaciona com ganhar dinheiro, mas tem a ver com o propósito.
+
+- Como?
+
+  A criação desse projeto foi feita com base em 4 passos de acordo com a banca avaliadora: **Utilidade, Criatividade, Eficácia e Apresentação**, Eu explicarei sobre mais abaixo.
+  
+- O Quê?
+
+  É o Modelo de Negócios Canvas Online. "O que faz ele ser util, eficáz e criativo?". O fato dele estar na internet é o que torna ele especial, ele é util pois um modelo de negócios bem estruturado faz uma empresa crescer como nunca. Ele é a criativo pois a criação de um site de modelo de negócios é algo que irá impactar e impulsionar o mercado de trabalho, feito nas mãos certas, sai um trabalho assertivo e conclual. Por fim, ele é eficáz, como eu disse antes, um modelo de negócios nas mãos certas, um simples código assim como um simples pensamento, pode impactar geração com conhecimento, eu tenho como exemplo de tudo isso que eu citei até agora, o grande salto no mundo da tecnologia que os irmãos **Guilherme e Paulo Silveira** deram de passar de uma escola de tecnologia chamada **Caelum** criada em 2005 na capital paulista para pessoas que já sabiam programação para uma **Plataforma Online** chamada **Alura**, criada em 2005 e que atualmente é a **é a maior escola online de tecnologia do Brasil.**
+  
+</p> 
+
+----
+
+## Sobre:
+
+ O Projeto Canvas é um projeto feito com base em 4 passos citados acima, no tópico **Golden Circle** em **"Como?"**
+
+ ### Utilidade
+
+  Temos um problema real nos dias de hoje que muitas pessoas tentam se reeinventar no mundo do empreendimento criando sua própria empresa! Seja por autonomia e liberdade, realização pessoal ou potencial de ganhos financeiros, porém, muitos desses empreendedores acabam por se frustar por não saber estruturar bem a base de uma empresa iniciante ou emergente no mercado de trabalho. Por isso eu estruturei um código com python, e mais algumas bibliotecas importadas para criar o Modelo de Negócios Canvas Online, simulando exemplos de perguntas específicas com base em um livro da faculdade onde hoje sou universitário chamada "Negócios em TI - Canvas" com mais algumas perguntas que eu procurei por websites para que a IA atualizada responda com precisão o que é melhor para o seu cliente para que assim seja criado um plano de negócios bem estruturado.
+
+ ### Criatividade
+
+   Em questão a criatividade no desenvolvimento do projeto, eu serei sincero, não sou um programador, muito menos um programador em python, essa é a minha primeira vez utilizando a linguagem python e a plataforma Google Colab do Google, tentei de muitas maneiras fazer com que eu pudesse estilizar, estruturar e animar o projeto com HTML, CSS e JavaScript sem que tivesse que recorrer a outras plataformas com mais acessibilidade pois, o intuito do projeto era monta-lo conforme a aula 4/5 da imersão, então foi total desição minha de que eu mesmo me limitasse a plataforma, tentei meu melhor explorando cada função dos códigos gerados e cada ação tomada pela IA Gemini atualizada quando eu precisava de ajuda.
+
+ ### Eficácia
+ 
+   A eficácia que esse projeto apresenta é maior até do que eu imagino, pois um modelo de negócios bem estruturado pode mudar a vida de milhares de pessoas, faz uma venda de bairro virar uma multi-nacional, algo tão grande que por si só consegue mudar a rota do mundo com inovações como muitas empresas e startups por ai pelo mundo, ressaltando novamente o impacto que vemos hoje a plataforma Alura dos irmãos Silveiras.
+   
+----
+
+
 <div align = "center">
  
- # Projeto Canvas 
 
-
-
-<p> O Projeto Canvas é um projeto sobre o Modelo de Negócios Canvas feito no Colab (Plataforma do Google) que tem suporte para atualizações recentes da IA ​​Gemini (do Google também), feito durante a 2 temporada da Imersão IA da Alura! </p> 
-
-----
-
-
-
-
-----
-
-## MY Profile
-  
-Olá, Tudo Bem? Eu sou o Luis Henrique mas pode me chamar de Ls, Muito Prazer! tenho 18 anos e estudar programação é o que eu chamo de Hobby!
-
-
-
-
-## Ferramentas
+## Linguagens
 
    <a href="https://developer.mozilla.org/en-US/docs/Web/python"><img src="https://skillicons.dev/icons?i=python" alt="python"></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/markdown"><img src="https://skillicons.dev/icons?i=markdown" alt="python"></a>
@@ -28,17 +53,23 @@ Olá, Tudo Bem? Eu sou o Luis Henrique mas pode me chamar de Ls, Muito Prazer! t
 
 ----
 
-## Plataformas
+## Ferramentas & Plataformas
 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/discord"><img src="https://skillicons.dev/icons?i=discord" alt="discord"></a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/github"><img src="https://skillicons.dev/icons?i=github" alt="github"></a>
+   <img src="https://github.com/user-attachments/assets/f214d759-a4ca-48f9-8c0e-ad88eaa6bc29" width="140" alt="Gemini">
+   <img src="https://img.icons8.com/color/256/google-colab.png" width="82" alt="Google Colab icon">
 
 
 ----
 
-<img src="https://github.com/user-attachments/assets/280620a9-75dc-4ffc-9712-3f61be13b744" width="100" height="16" alt="Discord">
-<img src="https://github.com/user-attachments/assets/afa31142-380d-4d43-95dc-b35defb00d5c" width="60px"/>
-<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png" width="100" height="40" alt="Google">
+<img src="https://github.com/user-attachments/assets/2b1eaca6-e823-429b-8b04-56a10514c374" width="82" alt="Discord">
+<img src="https://github.com/user-attachments/assets/e8f3602f-df79-4098-8b62-7ed9de262149" height="14" alt="+">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/512px-Google_Gemini_logo.svg.png" width="62" alt="Gemini logo">
+<img src="https://github.com/user-attachments/assets/e8f3602f-df79-4098-8b62-7ed9de262149" height="14" alt="+">
+<img src="https://github.com/user-attachments/assets/4fad3e1b-7fdf-4098-94dc-65e67be66b63" width="48" alt="Alura">
+<img src="https://github.com/user-attachments/assets/e8f3602f-df79-4098-8b62-7ed9de262149" height="14" alt="+">
+<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png" height="30" alt="Google">
+<img src="https://github.com/user-attachments/assets/e8f3602f-df79-4098-8b62-7ed9de262149" height="14" alt="+">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" width="80" alt="GitHub logo">
 
  
 
