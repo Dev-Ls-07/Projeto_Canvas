@@ -1,6 +1,9 @@
  # Projeto Canvas 
   
+## Acesse o projeto no Google Colab
 
+
+[Veja o projeto no Google Colab](https://colab.research.google.com/drive/11AdxGyGCeJmEhzbZxkuQ9W2jf2HzZPDe?usp=sharing)
 
 <p> 
  Olá, Tudo Bem? Eu sou o Luis Henrique mas pode me chamar de Ls, Muito Prazer! tenho 18 anos e estudar programação é o que eu chamo de Hobby! O Projeto Canvas é um projeto sobre o Modelo de Negócios Canvas feito no Colab (Plataforma do Google) que tem suporte para atualizações recentes da IA ​​Gemini (do Google também), feito durante a 2 temporada da Imersão IA da Alura!
