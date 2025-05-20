@@ -1,7 +1,18 @@
+
+> ⚠️ Este projeto está em desenvolvimento!
+ 
  # Projeto Canvas 
+
+ <!-- Badges -->
+
+| Função         | Status              |
+|----------------|------------------------|
+| `Issues`       | ![GitHub Issues](https://img.shields.io/github/issues/Dev-Ls-07/Projeto_Canvas)            |
+| `Pull_Request`  | ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Dev-Ls-07/Projeto_Canvas)  |
+| `Commit`       | ![Last Commit](https://img.shields.io/github/last-commit/Dev-Ls-07/Projeto_Canvas)         |
+| `Release`  | ![Release](https://img.shields.io/github/v/release/Dev-Ls-07/Projeto_Canvas)               |
   
 ## Acesse o projeto no Google Colab
-
 
 [Veja o projeto no Google Colab](https://colab.research.google.com/drive/11AdxGyGCeJmEhzbZxkuQ9W2jf2HzZPDe?usp=sharing)
 
@@ -33,7 +44,11 @@
 
 ----
 
+<div align: "center">
+
 ## Sobre:
+
+</div>
 
  O Projeto Canvas é um projeto feito com base em 4 passos citados acima, no tópico **Golden Circle** em **"Como?"**
 
@@ -92,6 +107,10 @@
 O modelo se destaca por seu desempenho avançado em tarefas complexas de linguagem natural, raciocínio lógico e integração de múltiplos tipos de dados, sendo uma das principais apostas do Google para competir com outros grandes modelos de IA, como o GPT da OpenAI.
 A Gemini é utilizada em diversos produtos do Google, incluindo o Bard (agora chamado Gemini), trazendo melhorias em pesquisa, produtividade e assistência automatizada.</span>
 </div>
+
+----
+
+- ### **Colab**
 
 <div style="display: flex; align-items: center;">
   <img src="https://img.icons8.com/color/256/google-colab.png" alt="Google colab" width="100" style="margin-right: 20px;">
