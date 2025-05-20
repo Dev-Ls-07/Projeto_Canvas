@@ -2,15 +2,6 @@
 > ⚠️ Este projeto está em desenvolvimento!
  
  # Projeto Canvas 
-
- <!-- Badges -->
-
-| Função         | Status              |
-|----------------|------------------------|
-| `Issues`       | ![GitHub Issues](https://img.shields.io/github/issues/Dev-Ls-07/Projeto_Canvas)            |
-| `Pull_Request`  | ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Dev-Ls-07/Projeto_Canvas)  |
-| `Commit`       | ![Last Commit](https://img.shields.io/github/last-commit/Dev-Ls-07/Projeto_Canvas)         |
-| `Release`  | ![Release](https://img.shields.io/github/v/release/Dev-Ls-07/Projeto_Canvas)               |
   
 ## Acesse o projeto no Google Colab
 
@@ -117,8 +108,20 @@ A Gemini é utilizada em diversos produtos do Google, incluindo o Bard (agora ch
   <span>Google Colab (ou Colaboratory) é uma plataforma gratuita do Google que permite programar em Python diretamente no navegador, com foco especial em ciência de dados, aprendizado de máquina e inteligência artificial. Ele oferece notebooks interativos semelhantes ao Jupyter Notebook, onde você pode combinar código, texto (Markdown), visualizações e outros recursos em um mesmo documento.</span>
 </div>
 
+----
 
+<div align = "center">
 
+<!-- Badges -->
+
+| Função         | Status              |
+|----------------|------------------------|
+| `Issues`       | ![GitHub Issues](https://img.shields.io/github/issues/Dev-Ls-07/Projeto_Canvas)            |
+| `Pull_Request`  | ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Dev-Ls-07/Projeto_Canvas)  |
+| `Commit`       | ![Last Commit](https://img.shields.io/github/last-commit/Dev-Ls-07/Projeto_Canvas)         |
+| `Release`  | ![Release](https://img.shields.io/github/v/release/Dev-Ls-07/Projeto_Canvas)               |
+
+</div>
 
 ----
 
