@@ -1,7 +1,7 @@
 
-> ⚠️ Este projeto está em desenvolvimento!
- 
  # Projeto Canvas 
+
+> ⚠️ Este projeto está em desenvolvimento!
   
 ## Acesse o projeto no Google Colab
 
