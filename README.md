@@ -1,17 +1,15 @@
 
  # Projeto Canvas 
 
-> ⚠️ Este projeto está em desenvolvimento!
-  
-## Acesse o projeto no Google Colab
-
-[Veja o projeto no Google Colab](https://colab.research.google.com/drive/11AdxGyGCeJmEhzbZxkuQ9W2jf2HzZPDe?usp=sharing)
-
-[![Banner do Canvas](assets/banner-canvas-dc.svg)](https://colab.research.google.com/drive/11AdxGyGCeJmEhzbZxkuQ9W2jf2HzZPDe?usp=sharing)
+> ⚠️ Este projeto está em desenvolvimento! 
 
 ---
 
-<img src="assets/banner-canvas-dc.svg" alt="Banner do Canvas" width="300"/>
+## Acesse o projeto no Google Colab
+
+<a href="https://colab.research.google.com/drive/11AdxGyGCeJmEhzbZxkuQ9W2jf2HzZPDe?usp=sharing" target="_blank">
+  <img src="assets/banner-canvas-dc.svg" width="300" alt="Banner Canvas DC">
+</a>
 
 ---
 
