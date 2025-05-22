@@ -143,6 +143,4 @@ A Gemini é utilizada em diversos produtos do Google, incluindo o Bard (agora ch
 <img src="https://github.com/user-attachments/assets/e8f3602f-df79-4098-8b62-7ed9de262149" height="14" alt="+">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" width="80" alt="GitHub logo">
 
- 
-
 </div>
