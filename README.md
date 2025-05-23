@@ -41,10 +41,6 @@
 
 ----
 
-<div align = "right">
-<img src="assets/spidertocat.png" alt="SpiderToCat" width="300" align = "right"/>
-</div>
-
 <div align: "center">
 
 ## Sobre:
