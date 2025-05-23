@@ -60,8 +60,6 @@
  ### Eficácia
  
    A eficácia que esse projeto apresenta é maior até do que eu imagino, pois um modelo de negócios bem estruturado pode mudar a vida de milhares de pessoas, faz uma venda de bairro virar uma multi-nacional, algo tão grande que por si só consegue mudar a rota do mundo com inovações como muitas empresas e startups por ai pelo mundo, ressaltando novamente o impacto que vemos hoje a plataforma Alura dos irmãos Silveiras.
-   
-
 
 ## Linguagens
 
