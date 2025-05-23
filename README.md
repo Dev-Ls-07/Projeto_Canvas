@@ -1,10 +1,8 @@
-<div align = "right">
-<img src="assets/spidertocat.png" alt="SpiderToCat" width="300" align = "right"/>
-</div>
+<img src="https://github.com/Dev-Ls-07/Projeto_Canvas/blob/main/assets/neurocats_FULL-removebg-preview.png?raw=true" alt="Neurocats Logo" width="300" align = "right"/>
 
 # Projeto Canvas 
 
-> 💡 Este projeto foi desenvolvido especialmente para a comunidade [nome da comunidade]!  
+> 💡 Este projeto foi desenvolvido especialmente para a comunidade da Imersão de IA da Alura!  
 > Sinta-se à vontade para contribuir, compartilhar ideias e participar.
 
 ## Acesse o projeto no Google Colab
@@ -42,6 +40,10 @@
  
 
 ----
+
+<div align = "right">
+<img src="assets/spidertocat.png" alt="SpiderToCat" width="300" align = "right"/>
+</div>
 
 <div align: "center">
 
