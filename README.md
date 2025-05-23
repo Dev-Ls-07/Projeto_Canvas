@@ -1,9 +1,11 @@
+<div align = "right">
+<img src="assets/spidertocat.png" alt="SpiderToCat" width="300" align = "right"/>
+</div>
 
 # Projeto Canvas 
 
-> ⚠️ Este projeto está em desenvolvimento! 
-
----
+> 💡 Este projeto foi desenvolvido especialmente para a comunidade [nome da comunidade]!  
+> Sinta-se à vontade para contribuir, compartilhar ideias e participar.
 
 ## Acesse o projeto no Google Colab
 
